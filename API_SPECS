@@ -1,0 +1,306 @@
+{\rtf1\fbidis\ansi\ansicpg1255\deff0\nouicompat\deflang1033\deflangfe1033{\fonttbl{\f0\fswiss\fprq2\fcharset0 Calibri;}{\f1\fswiss\fprq2 Calibri;}{\f2\fnil\fcharset1 Cambria Math;}{\f3\fswiss\fprq2\fcharset0 Helvetica;}{\f4\fswiss\fprq2\fcharset177 Arial;}{\f5\froman\fprq2\fcharset0 Times New Roman;}{\f6\froman\fprq2\fcharset177 Times New Roman;}{\f7\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red68\green114\blue196;\red80\green80\blue80;\red255\green255\blue255;}
+{\*\listtable 
+{\list\listhybrid
+{\listlevel\levelnfc23\leveljc2\levelstartat0{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}\listid1 }
+{\list\listhybrid
+{\listlevel\levelnfc0\leveljc0\levelstartat1{\leveltext\'02\'00.;}{\levelnumbers\'01;}\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}\listid2 }
+{\list\listhybrid
+{\listlevel\levelnfc0\leveljc0\levelstartat1{\leveltext\'02\'00.;}{\levelnumbers\'01;}\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}\listid3 }
+{\list\listhybrid
+{\listlevel\levelnfc0\leveljc0\levelstartat1{\leveltext\'02\'00.;}{\levelnumbers\'01;}\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}\listid4 }
+{\list\listhybrid
+{\listlevel\levelnfc0\leveljc0\levelstartat1{\leveltext\'02\'00.;}{\levelnumbers\'01;}\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}\listid5 }
+{\list\listhybrid
+{\listlevel\levelnfc23\leveljc2\levelstartat0{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}
+{\listlevel\levelnfc23\leveljc2\levelstartat1{\leveltext\'01\'B7;}{\levelnumbers;}\f7\jclisttab\tx0}\listid6 }}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}}
+{\*\generator Riched20 10.0.17763}{\*\mmathPr\mmathFont2\mnaryLim0\mdispDef1\mwrapIndent1440 }\viewkind4\uc1 
+\pard\ltrpar\widctlpar\ul\b\f0\fs22 API:\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls1\ltrpar\fi-360\li720\cf1\ulnone /hotel\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls1\ilvl1\ltrpar\fi-360\li1440\cf0\b0 /\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls1\ilvl2\ltrpar\fi-360\li2160 description:  Get hotel details\par
+{\listtext\f0 1\tab}method: GET\par
+{\listtext\f0 2\tab}\{name, logo\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls1\ltrpar\widctlpar\fi-360\li720\cf1\b /room\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls1\ilvl1\ltrpar\fi-360\li1440\cf0\b0 /\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls1\ilvl2\ltrpar\fi-360\li2160 description:  Get all room list\par
+{\listtext\f0 1\tab}method: GET\par
+{\listtext\f0 2\tab}response: [$ROOM]\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls1\ilvl1\ltrpar\widctlpar\fi-360\li1440 /:roomNumber\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls1\ilvl2\ltrpar\widctlpar\fi-360\li2160 description:  Get room details\par
+{\listtext\f0 1\tab}method: GET\par
+{\listtext\f0 2\tab}response: $ROOM\par
+
+\pard\ltrpar\widctlpar\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl1\ltrpar\fi-360\li1440 /:roomNumber/checkIn\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl2\ltrpar\fi-360\li2160 description:  Check in room\par
+{\listtext\f0 1\tab}method: POST\par
+{\listtext\f0 2\tab}request: \{roomNr: number, guestsAmount: number\}\par
+{\listtext\f0 3\tab}response: \{user: $USER\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl1\ltrpar\fi-360\li1440 /:roomNumber/checkOut\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl2\ltrpar\fi-360\li2160 description:  Check in room\par
+{\listtext\f0 1\tab}method: PUT\par
+{\listtext\f0 2\tab}request: \{roomNr: number, guestsAmount: number\}\par
+{\listtext\f0 3\tab}response: 200 \{price: number\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl1\ltrpar\widctlpar\fi-360\li1440 /\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl2\ltrpar\fi-360\li2160 description:  Create room\par
+{\listtext\f0 1\tab}method: PUT\par
+{\listtext\f0 2\tab}request: \{roomNumber: number, description: string, ppn: $PPN\}\par
+{\listtext\f0 3\tab}response: $ROOM\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl1\ltrpar\widctlpar\fi-360\li1440 /getAvailableRooms\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls2\ilvl2\ltrpar\widctlpar\fi-360\li2160 method: GET\par
+{\listtext\f0 1\tab}response: [$ROOM] - filtered by availability\par
+
+\pard\ltrpar\widctlpar\par
+\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl1\ltrpar\widctlpar\fi-360\li1440\cf1\b /schedule \f1\endash  \b0\f0 add Special Event\b\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl2\ltrpar\widctlpar\fi-360\li2160\cf0\b0 /:hotel_id/:day\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl3\ltrpar\widctlpar\fi-360\li2880 GET\par
+{\listtext\f0 1\tab}1 \f2\u8804?\f1\lang1033  \f0 day \f2\u8804?\f1\lang1033  \f0 7\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl2\ltrpar\widctlpar\fi-360\li2160 /\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl3\ltrpar\widctlpar\fi-360\li2880 PUT\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl4\ltrpar\widctlpar\fi-360\li3600\{hotel_id, day:Number, time:String('HH:MM'), desc\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl3\ltrpar\widctlpar\fi-360\li2880 PATCH\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl4\ltrpar\widctlpar\fi-360\li3600\{hotel_id, schedule_id, day, time, desc\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl3\ltrpar\widctlpar\fi-360\li2880 DELETE\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl4\ltrpar\widctlpar\fi-360\li3600\{hotel_id, schedule_id\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl2\ltrpar\widctlpar\fi-360\li2160 /me/:hotel_id/:schedule_id\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls3\ilvl3\ltrpar\widctlpar\fi-360\li2880 GET\par
+
+\pard\ltrpar\widctlpar\par
+\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl1\ltrpar\widctlpar\fi-360\li1440\cf1\b /table\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl2\ltrpar\widctlpar\fi-360\li2160\cf0\b0 /\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl3\ltrpar\widctlpar\fi-360\li2880 PUT\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl4\ltrpar\widctlpar\fi-360\li3600\{hotel, number, sits\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl3\ltrpar\widctlpar\fi-360\li2880 PATCH\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl4\ltrpar\widctlpar\fi-360\li3600\{table_id, number, sits\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl3\ltrpar\widctlpar\fi-360\li2880 DELETE\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl4\ltrpar\widctlpar\fi-360\li3600\{table_id\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl3\ltrpar\widctlpar\fi-360\li2880 GET\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl4\ltrpar\widctlpar\fi-360\li3600 /:table_id \par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl2\ltrpar\widctlpar\fi-360\li2160 /toggle\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls4\ilvl3\ltrpar\widctlpar\fi-360\li2880 PUT\par
+{\listtext\f0 1\tab}\{table_id\}\par
+
+\pard\ltrpar\widctlpar\cf1\b\par
+\par
+\page /room\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl1\ltrpar\widctlpar\fi-360\li1440\cf0\b0 /getRoom\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 POST\par
+{\listtext\f0 1\tab}\{room_id\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl1\ltrpar\widctlpar\fi-360\li1440 /checkIn\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 POST\par
+{\listtext\f0 1\tab}\{room_id, user_id\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl1\ltrpar\widctlpar\fi-360\li1440 /checkOut\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 POST\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160\sl480\slmult1\{room_id, user_id\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl1\ltrpar\widctlpar\fi-360\li1440\cf1\b /service\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160\cf0\b0 /missing\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 PUT\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl4\ltrpar\widctlpar\fi-360\li3600\{room_id, item, quantity\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 DELETE\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl4\ltrpar\widctlpar\fi-360\li3600\{room_id\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 /maintenance\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 PUT\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl4\ltrpar\widctlpar\fi-360\li3600\{room_id, desc\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 DELETE\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl4\ltrpar\widctlpar\fi-360\li3600\{room_id\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 /alarmClock\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 PUT\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl4\ltrpar\widctlpar\fi-360\li3600\{room_id, date:String(YYYY-MM-DD), time:String(HH:MM)\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 DELETE\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl4\ltrpar\widctlpar\fi-360\li3600\{room_id\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 /setCleanable\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 PUT\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl4\ltrpar\widctlpar\fi-360\li3600\{room_id, value:Boolean\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl1\ltrpar\widctlpar\fi-360\li1440 /therapist\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 /appointment\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 DELETE\{\cf2\highlight3\f3\fs18 appointment_id\}\cf0\highlight0\f0\fs22\par
+{\listtext\f0 1\tab}PUT\{time,hotel,treatment,user,date\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 POST(get all)\par
+{\listtext\f0 1\tab}/all\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl3\ltrpar\widctlpar\fi-360\li2880 DELETE(delete all)\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls5\ilvl2\ltrpar\widctlpar\fi-360\li2160 DELETE\{\cf2\highlight3\f3\fs18 therepist_id\}\cf0\highlight0\f0\fs22\par
+{\listtext\f0 1\tab}PUT\{startDate,endDate,startTime,endTime,\cf2\highlight3\f3\fs18  dayOff,hotel, name\}\cf0\highlight0\f0\fs22\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls6\ltrpar\widctlpar\fi-360\li720\sb240\cf1\b /user\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls6\ilvl1\ltrpar\widctlpar\fi-360\li1440\cf0\b0 /register\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls6\ilvl2\ltrpar\widctlpar\fi-360\li2160 PUT\par
+{\listtext\f0 1\tab}\{id, firstname, lastname, phone, address\}\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls6\ilvl1\ltrpar\widctlpar\fi-360\li1440 /edit\par
+
+\pard 
+{\listtext\f0\u10625?\tab}\ls6\ilvl2\ltrpar\widctlpar\fi-360\li2160 Post\{id\} \f4\rtlch\lang1037\'e1\'f9\'e1\'e9\'ec \'e8\'e5\'f4\'f1 \'f2\'f8\'e9\'eb\'fa \'f4\'f8\'e5\'f4\'e9\'ec\f0\ltrch\lang1033\par
+{\listtext\f0 1\tab}PUT\f5\lang2057  \f6\rtlch\lang1037\}\f0\ltrch\lang1033 id, phone, address\}\par
+}
+ 
